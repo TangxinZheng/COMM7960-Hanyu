@@ -1,1 +1,1 @@
-# COMM7960-Hanyu
+# COMM7960
